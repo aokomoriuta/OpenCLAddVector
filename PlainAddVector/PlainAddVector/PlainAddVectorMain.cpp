@@ -56,7 +56,7 @@ namespace PlainAddVector
 		const string entryPoint = "AddVector";
 
 		// ベクトルの要素数
-		cl_ulong elementCount = 1024*128;
+		cl_ulong elementCount = 1024*512;
 
 /*****************/
 		// ワークグループ内のワークアイテム数は256
